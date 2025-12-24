@@ -1,0 +1,22 @@
+# Bỏ qua thư mục Visual Studio
+.vs/
+
+# Bỏ qua file cấu hình người dùng
+*.user
+*.suo
+*.slnx
+
+# Bỏ qua file tạm của VS
+*.vsidx
+
+# Bỏ qua thư mục build
+x64/
+Debug/
+Release/
+
+# Bỏ qua file log, cache
+*.log
+*.obj
+*.exe
+*.dll
+*.pdb

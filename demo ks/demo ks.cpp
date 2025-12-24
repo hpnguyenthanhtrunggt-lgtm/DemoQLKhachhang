@@ -30,14 +30,15 @@ void khachhang::tao_kh() {
 
 void khachhang::xem_kh() {
     file.open("khachhang.txt", ios::in);
+    cout << "Ten    " << "Tuoi    " << "ID    " << "So phong    " << "\n";
     while (getline(file, ten, '*') &&
         getline(file, tuoi, '*') &&
         getline(file, id, '*') &&
         getline(file, sophong, '\n')) {
-        cout << "\nTen khach hang: " << ten;
-        cout << "\nTuoi khach hang: " << tuoi;
-        cout << "\nID khach hang: " << id;
-        cout << "\nDat phong: " << sophong << "\n";
+        cout << ten << "    ";
+        cout << tuoi << "    ";
+        cout << id << "    ";
+        cout << sophong << "    "<< "\n";
     }
     file.close();
 }
