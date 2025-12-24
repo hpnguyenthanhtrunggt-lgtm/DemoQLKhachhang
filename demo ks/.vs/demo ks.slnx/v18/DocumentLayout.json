@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thanh\\source\\repos\\demoqlks\\demo ks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C8281B-262F-4FBD-A435-14BCA4824CB4}|demo ks.vcxproj|C:\\Users\\thanh\\source\\repos\\demoqlks\\demo ks\\demo ks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2C8281B-262F-4FBD-A435-14BCA4824CB4}|demo ks.vcxproj|solutionrelative:demo ks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demo ks.cpp",
+              "DocumentMoniker": "C:\\Users\\thanh\\source\\repos\\demoqlks\\demo ks\\demo ks.cpp",
+              "RelativeDocumentMoniker": "demo ks.cpp",
+              "ToolTip": "C:\\Users\\thanh\\source\\repos\\demoqlks\\demo ks\\demo ks.cpp",
+              "RelativeToolTip": "demo ks.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T15:09:22.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
